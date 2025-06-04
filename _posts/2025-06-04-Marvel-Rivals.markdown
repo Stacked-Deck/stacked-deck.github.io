@@ -8,3 +8,5 @@ categories: matchmaking
 ### What Happened?
 
 1. **Utter Bullshit:** Netease you clowns suck my ass.
+
+![Local Image](/assets/test_img.png)
