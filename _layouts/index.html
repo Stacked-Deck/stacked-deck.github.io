@@ -7,7 +7,10 @@ layout: default
 <ul class="post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {%- for post in site.posts -%}
-    <li>
+
+    <!-- margin for spacing outside the element keeps post seperate, padding for inside the element adds gap between border and content -->
+    <li style="margin-bottom: 30px; padding-bottom: 20px;">
+
     <span class="post-meta">{{ post.date | date: date_format }}</span>
     <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
@@ -15,6 +18,8 @@ layout: default
         </a>
     </h3>
         {{ post.excerpt }}
+        <hr style="border: 1px solid #b5e853; width: 10%; margin-left: 0; opacity: 0.3;">
+        
     </li>
     {%- endfor -%}
 </ul>

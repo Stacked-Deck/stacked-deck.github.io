@@ -1,0 +1,49 @@
+
+.task-list-item {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-bottom: 15px; /* More spacing between items */
+}
+
+/* For list style, requires removing above */
+/*
+.task-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; 
+}
+*/
+
+.task-list-item input[type="checkbox"] {
+    transform: scale(1.2);
+    margin-right: 8px;
+    cursor: pointer;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #4CAF50; /* Green border */
+    background-color: white;
+    border-radius: 4px;
+    position: relative;
+    vertical-align: middle; /* Aligns checkbox with text */
+}
+
+/* Darker checkmark & better placement */
+.task-list-item input[type="checkbox"]:checked::before {
+    content: "✔"; /* Unicode checkmark */
+    font-size: 16px; /* Adjust size */
+    color: #222; /* Darker tick */
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%); /* Centers the tick */
+}
+
+/* Green background when checked */
+.task-list-item input[type="checkbox"]:checked {
+    background-color: #4CAF50; /* Green checkbox */
+    border-color: #388E3C; /* Slightly darker green border */
+}
+
+
