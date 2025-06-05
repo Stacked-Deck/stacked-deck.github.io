@@ -1,9 +1,8 @@
-
 .task-list-item {
     display: flex;
     align-items: center;
     list-style: none;
-    margin-bottom: 15px; /* More spacing between items */
+    margin-bottom: 15px; /* Adds spacing */
 }
 
 /* For list style, requires removing above */
@@ -15,6 +14,13 @@
 }
 */
 
+/* Green bold text when checked*/
+.task-list-item:has(input[type="checkbox"]:checked) {
+    font-weight: bold;
+    color: #b5e853; /* Green text */
+}
+
+/* */
 .task-list-item input[type="checkbox"] {
     transform: scale(1.2);
     margin-right: 8px;
@@ -22,8 +28,8 @@
     appearance: none;
     width: 20px;
     height: 20px;
-    border: 2px solid #4CAF50; /* Green border */
-    background-color: white;
+    border: 2px solid #b5e853; /* Green border */
+    background-color: #222;
     border-radius: 4px;
     position: relative;
     vertical-align: middle; /* Aligns checkbox with text */
@@ -42,8 +48,8 @@
 
 /* Green background when checked */
 .task-list-item input[type="checkbox"]:checked {
-    background-color: #4CAF50; /* Green checkbox */
-    border-color: #388E3C; /* Slightly darker green border */
+    background-color: #b5e853; /* Green checkbox */
+    /*border-color: #388E3C;*/ /* Slightly darker green border */
 }
 
 
