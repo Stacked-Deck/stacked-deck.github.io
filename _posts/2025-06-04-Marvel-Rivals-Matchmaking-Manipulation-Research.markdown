@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "Marvel Rivals"
+title:  "Marvel Rivals : Matchmaking Manipulation Research"
 date:   2025-06-04 16:54:00 +0100
 categories: matchmaking
 ---
+
+TL;DR : Evidence proves that the matchmaking algorithm is so heavily manipulated that it forces the outcome of games BEFORE those games take place (WORD THIS HELLA HELLA BETTER)
+
+&nbsp;
+
 
 ### What Happened?
 
@@ -43,6 +48,7 @@ categories: matchmaking
 - **Future Stuff:** Fucking dogshit company
 
 - [x] Win Rate Matchmaking Manipulation (Season 2.5)
+- [ ] Data Request Avoidance (MAKE THIS LIVE SAME TIME/BEFORE TBF)
 - [ ] Bot Engagement Conditions Specifics (Season 0)
 - [ ] Matchamking Manipulation Specifics (Season 0)
 
