@@ -60,7 +60,7 @@ With another threat to contact the Information Commisioners Office (ICO), and a 
 
 They noted that they needed to verify my identity *(standard procedure for a data request)*, and that I could do this by making the request in game via the Customer Support Portal, and providing a session ID. 
 
-![Approved?](/assets/imgs/knucles-approved.gif "It Was All Lies!")
+![Approved?](/assets/imgs/knuckles-approved.gif "It Was All Lies!")
 
 But as we'll soon find out, this was just to give me the run-around. This shit wasn't approved at all, they just wanted to waste time as they still refused to send the data.
 
@@ -137,10 +137,6 @@ So this whole thing is from 5 months ago as I said. But I did hop on recently to
 Now you can't even make a data request AT ALL. The seemingly AI operated chatbot doesn't have a clue what a "data request" is, and just keeps going round in circular logic, making it literally impossible to not only make a data request, but for me to even query them about the data request they *said* they were processing 5 months ago... To be fair, did you *really* expect anything else?
 
 I'd be remiss if I did compare this to the Chinese internet itself. Much like how terms like "Tiananmen Square Protests" and "Winnie The Pooh" are directly blocked in China, it seems like "Data Request" is blocked by NetEase. 
-
-NetEase be like "data request?..."
-
-![What Even Is That?](/assets/imgs/what-even-is-that.gif "Daddy Chill")
 
 &nbsp;
 
