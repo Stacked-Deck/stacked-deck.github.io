@@ -14,7 +14,7 @@ TL;DR : Evidence proves that the matchmaking algorithm is so heavily manipulated
 
 - **Utter Bullshit:** Netease you clowns suck my ass.
 
-![Local Image](/assets/test_img.png)
+![Local Image](/assets/imgs/test_img.png)
 
 &nbsp;
 
