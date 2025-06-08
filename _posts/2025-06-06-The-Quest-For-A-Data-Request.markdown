@@ -49,12 +49,12 @@ Nope... They didn't even reply
 
 ![Local Image](/assets/imgs/data_request_3.png)
 
-With another threat to contact the ICO, and a reminder that its might right to have access to my data.
+With another threat to contact the ICO, and a reminder that its my right to have access to my data.
 
 &nbsp;
 
 
-### Then Miraculously They Were (Supposedly) Able To Process The Request
+### Then Miraculously They're Able To Process The Request
 
 ![Local Image](/assets/imgs/data_request_4.png)
 
