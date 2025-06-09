@@ -130,13 +130,23 @@ What kind of sucks is that the waiting time for complaints is pretty insane righ
 
 ### NetEase Portal Now Blocks "Data Request"
 
-![Social Credit +1000](/assets/imgs/social-credit.gif "Bing Chilling")
-
 So this whole thing is from 5 months ago as I said. But I did hop on recently to try and contact NetEase customer support via the portal, and to see if they had made improvements which made it easier to make data requests... This was *seriously* wishful thinking on my behalf, because of course instead of getting better, it actually got *worse*.
 
-Now you can't even make a data request AT ALL. The seemingly AI operated chatbot doesn't have a clue what a "data request" is, and just keeps going round in circular logic, making it literally impossible to not only make a data request, but for me to even query them about the data request they *said* they were processing 5 months ago... To be fair, did you *really* expect anything else?
+Now you can't even make a data request AT ALL. The AI operated chatbot doesn't have a clue what a "data request" is, and just keeps going round in circular logic.
+
+I ask it for a "data request" and it has literally no idea what that is, the only options it provides aren't close...
+
+![NetEase's New Customer Support Portal](/assets/imgs/data_request_portal_B_1.jpg)
+
+And if you type "None of the above" it just loops back to the start...
+
+![NetEase's New Customer Support Portal](/assets/imgs/data_request_portal_B_2.jpg)
+
+This makes it literally impossible to not only make a data request, but also for me to even query them about the data request they *said* they were processing 5 months ago... To be fair, did you *really* expect anything else?
 
 I'd be remiss if I did compare this to the Chinese internet itself. Much like how terms like "Tiananmen Square Protests" and "Winnie The Pooh" are directly blocked in China, it seems like "Data Request" is blocked by NetEase. 
+
+![Social Credit +1000](/assets/imgs/social-credit.gif "Bing Chilling")
 
 &nbsp;
 
