@@ -170,7 +170,7 @@ I can't lie I'm not 100% sure on this one, but I am hopeful, as in similar situa
 
 ### What Happens ~~When~~ If The Data Turns Up?
 
-Well first thing will be to see what's *actually* included. There isn't really a consensus in the industry (though there really should be) because these companies are rarely (if ever) challenged on these things, for example Activision provides hidden MMR data (as they should), whereas other companies don't provide this, but do give more extensive data on the individual actions taken in game (more than just kills, deaths, etc), so we'll really have to see.
+Well first thing will be to see what's *actually* included. There isn't really a consensus in the industry (though there really should be) because these companies are rarely (if ever) challenged on these things, for example Activision provides hidden MMR data, whereas other companies don't provide this, but do give more extensive data on the individual actions taken in game (more than just kills, deaths, etc), so we'll really have to see.
 
 But once I *do* (fingers crossed) get the data I'll be dropping some huge evidence on Marvel Rivals Season 0 matchmaking manipulation that will show players how the game's rigged ass algorithm works behind the scenes. And trust me on this one, it is actually fucking disgusting.
 
@@ -181,21 +181,42 @@ I would really love to put this out there now but I want to do this properly and
 &nbsp;
 
 
-### Takeaways
+### Comparing This To Activision
 
-This should be a warning... (should be a red flag enough that they're refusing to send the data... (see top summary))
+I know ActiBlizz aren't a "good company" by any stretch of the imagination, but I think its important to point out the *stark* contrast between dealing with a western company that's bound by law, vs Netease.
 
-I know ActiBlizz aren't a "good company" but it is a stark contrast when dealing with a (western) company that's bound by law... And tbf they are the only company I have seen provide hidden MMR data in user data requests. Is there *seriously* any gamer out there that thinks that games companies should be allowed to hide this from us, as if it's *not* user data.
+Activision has a portal already set up for making data requests and is incredibly easy to use. You simply sign in with the respective accounts (e.g. Microsoft and Activision), make the request, and its sent to you within a month. 
 
-(OLD - Now compare this whole farce with Netease and Marvel Rivals to Activision and Call of Duty and see how stark the difference is. Quick and easy blah, I'm not trying to glaze ActiBlizz here, but they don't fuck around when it comes to data requests, and do give provide data points that other developers just straight up refuse to (like hidden MMR).)
+![Local Image](/assets/imgs/activision-data-request-portal.png)
 
-This is currently a grey area and hasn't be legally contested (which is something I'm hoping to do in the near future)...
+This is the way it *should* be.
 
-I know China is a modern day boogie man but this is a *real* problem, and something that gamers should be aware of, and worried about more and more in future, especially as Chinese companies like Tencent gobble up developers left right and center...
+Now not to glaze Activision, but as I noted prior they are the only company I have seen provide hidden MMR data in user data requests. Sure this is a tangent but I thought I'd bring it up because its one of the many grey areas that currently exists *(that being : what is and isn't required to be included in a data request)*. I mean is there *seriously* any gamer out there that thinks that games companies should be allowed to hide basic hidden MMR data from us?
 
-The whole MMR data from CoD, but have requested MMR data from other companies and they refuse to hand it over. This is a whole other can of worms and so it's a topic to save for another time but it *is* something we need to start discussing more - specifically the levels of obfuscation games companies are allowed to have, especially when it comes to "competitive" multiplayer games. This wouldn't have been a necessity XX years ago, but we're well deep into the era of Skill Based Matchmaking, Engagement Optimised Matchmaking, and now unfortunately Rigged & Heavily Manipulated Matchmaking to the point that it is a necessity (that...)
+This is a whole other can of worms and so it's a topic to save for another time but it *is* something we need to start discussing more - specifically the levels of obfuscation games companies are allowed to have, especially when it comes to "competitive" multiplayer games. This wouldn't have been a necessity 10 - 15 years ago, but we're deep into the era of SBMM (skill based matchmaking), EOMM (engagement optimised matchmaking), and now Rigged & Manipulated Matchmaking to the point that basic transparency is a necessity.
 
-This is just *another* system thats being put in place to... Check out my piece on....
+And just to be clear, every single game's company I have queried has at *minimum* has provided complete battlelog data on request... Every single one except NetEase of course.
+
+&nbsp;
+
+
+### Make No Mistake, This Is A Cover Up
+
+NetEase is up to something seriously disgusting with the levels of matchmaking manipulation it has implemented in Marvel Rivals... And they aren't the only ones.
+
+And even though I can prove it I need my data to serve as additional evidence. 
+
+But NetEase is outright refusing to send me the data, and that should be a huge red flag to everyone about the extent of what is happening. NetEase has secrets they want to keep hidden, and they are willing to break the law to keep it that way.
+
+The game already has no API, imo an intentional obfuscation tactic to stop researchers like me from being able to prove matchmaking manipulation (but we'll save this for another day). Without access to the most basic user data like complete battlelogs future researchers have ZERO chance of providing evidence of abuse and holding companies accountable for decieving their players.
+
+I know China is a modern day boogie man but this is a *real* problem, and something that gamers should be aware of, and worried about more and more in future, especially as more and more Chinese developers are entering into the competitive multiplayer space every year, and Chinese companies like Tencent gobble up developers left right and center.
+
+And sure, if I was just trying to get my data for pointless reasons this wouldn't be such a big deal... But it is.
+
+As I've said, what NetEase is up to is truly disgusting - essentially rigging the outcome of games - and if I ever actually get access to my data I can prove it.
+
+Make no mistake, what NetEase is doing is a cover up.
 
 &nbsp;
 
