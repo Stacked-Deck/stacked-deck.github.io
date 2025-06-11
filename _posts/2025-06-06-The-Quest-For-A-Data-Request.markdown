@@ -132,17 +132,15 @@ What kind of sucks is that the waiting time for complaints is pretty insane righ
 
 So this whole thing is from 5 months ago as I said. But I did hop on recently to try and contact NetEase customer support via the portal, and to see if they had made improvements which made it easier to make data requests... This was *seriously* wishful thinking on my behalf, because of course instead of getting better, it actually got *worse*.
 
-Now you can't even make a data request AT ALL. The AI operated chatbot doesn't have a clue what a "data request" is, and just keeps going round in circular logic.
+The AI operated chatbot doesn't have a clue what a "data request" is, and just keeps going round in circular logic.
 
 I ask it for a "data request" and it has literally no idea what that is, the only options it provides aren't close...
 
-![NetEase's New Customer Support Portal](/assets/imgs/data_request_portal_B_1.jpg)
+![NetEase's New Customer Support Portal](/assets/imgs/data_request_portal_B_1.png)
 
 And if you type "None of the above" it just loops back to the start...
 
-![NetEase's New Customer Support Portal](/assets/imgs/data_request_portal_B_2.jpg)
-
-This makes it literally impossible to not only make a data request, but also for me to even query them about the data request they *said* they were processing 5 months ago... To be fair, did you *really* expect anything else?
+![NetEase's New Customer Support Portal](/assets/imgs/data_request_portal_B_2.png)
 
 I'd be remiss if I did compare this to the Chinese internet itself. Much like how terms like "Tiananmen Square Protests" and "Winnie The Pooh" are directly blocked in China, it seems like "Data Request" is blocked by NetEase. 
 
@@ -197,11 +195,7 @@ I know China is a modern day boogie man but this is a *real* problem, and someth
 
 The whole MMR data from CoD, but have requested MMR data from other companies and they refuse to hand it over. This is a whole other can of worms and so it's a topic to save for another time but it *is* something we need to start discussing more - specifically the levels of obfuscation games companies are allowed to have, especially when it comes to "competitive" multiplayer games. This wouldn't have been a necessity XX years ago, but we're well deep into the era of Skill Based Matchmaking, Engagement Optimised Matchmaking, and now unfortunately Rigged & Heavily Manipulated Matchmaking to the point that it is a necessity (that...)
 
-&nbsp;
-
-
-### Further Reading
-
 This is just *another* system thats being put in place to... Check out my piece on....
 
 &nbsp;
+
