@@ -208,9 +208,11 @@ And even though I can prove it I need my data to serve as additional evidence.
 
 But NetEase is outright refusing to send me the data, and that should be a huge red flag to everyone about the extent of what is happening. NetEase has secrets they want to keep hidden, and they are willing to break the law to keep it that way.
 
-The game already has no API, imo an intentional obfuscation tactic to stop researchers like me from being able to prove matchmaking manipulation (but we'll save this for another day). Without access to the most basic user data like complete battlelogs future researchers have ZERO chance of providing evidence of abuse and holding companies accountable for decieving their players.
+![Red Flag](/assets/imgs/red-flag.gif "Me Everytime There's No API")
 
-I know China is a modern day boogie man but this is a *real* problem, and something that gamers should be aware of, and worried about more and more in future, especially as more and more Chinese developers are entering into the competitive multiplayer space every year, and Chinese companies like Tencent gobble up developers left right and center.
+The game already has no API (another red flag imo), which is a very intentional obfuscation tactic to stop researchers like me from being able to prove matchmaking manipulation (but we'll save this for another day). However without access to the most basic user data like complete battlelogs future researchers have ZERO chance of providing evidence of abuse and holding companies accountable for decieving their players, and I find that extremely worrying.
+
+Lastly, I know China is a modern day boogie man but this is a *real* problem, and something that gamers should be aware of, and worried about more and more in future, especially as more and more Chinese developers are entering into the competitive multiplayer space every year, and Chinese companies like Tencent gobble up developers left right and center.
 
 And sure, if I was just trying to get my data for pointless reasons this wouldn't be such a big deal... But it is.
 
